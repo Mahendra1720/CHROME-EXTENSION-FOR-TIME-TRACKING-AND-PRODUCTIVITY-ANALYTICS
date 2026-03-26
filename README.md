@@ -60,3 +60,5 @@ Conclusion
 This project demonstrates a strong understanding of full-stack development by integrating frontend, backend, and browser-based technologies. It highlights practical usage of Chrome APIs, RESTful services, and real-time data handling. The system is scalable and can be enhanced with advanced features like AI-based classification, user authentication, and data visualization tools.
 
 Overall, this project is highly relevant for academic purposes, internships, and real-world productivity tools, making it an excellent addition to any developer’s portfolio.
+
+<img width="264" height="191" alt="Image" src="https://github.com/user-attachments/assets/d0980e8c-43fa-4afa-830c-9e6182520de6" />
